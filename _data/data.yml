@@ -335,7 +335,12 @@ certificate:
       date: 10/2020
       link: 'https://assets-btkakademi-gov-tr.akamaized.net/api/dynamic/tmp/51/57298/bYkV57Ke?q=extfu5b5GU4x6jVlRGLa0u6aLyuae9jwbPIvMq743gI'
       description: |
-        
+
+    - name: KOSGEB Uygulamalı Girişimcilik Eğitimi
+      issuer: KOSGEB
+      date: 10/2020
+      description: |
+        Id: 2019/581/757
     
 
 publication:
