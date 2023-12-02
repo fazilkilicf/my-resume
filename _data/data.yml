@@ -296,11 +296,25 @@ education:
   items:
     - institution:  Teknoloji Fakültesi - Fırat Üniversitesi
       link: 'https://www.firat.edu.tr/tr'
-      date: 2015 - 2020
+      date: 2016 - 2020
       major: Yazılım Mühendisliği
       degree: Lisans
       description: |
         Yatay geçiş
+
+    - institution:  Mühendislik Fakültesi - İnönü Üniversitesi
+      link: 'https://www.inonu.edu.tr'
+      date: 2015 - 2016
+      major: Bilgisayar Mühendisliği
+      degree: Lisans
+      description: |
+
+    - institution:  Gazi Anadolu Teknik ve Endüstri Meslek Lisesi
+      date: 2009 - 2013
+      major: Bilişim Teknolojileri
+      degree: Lise
+      description: |
+        
 
     - institution: Example University
       link:
