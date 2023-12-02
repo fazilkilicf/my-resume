@@ -209,10 +209,22 @@ project:
         + Agile
         + CI/CD
 
+    - name: Algolab Mobile
+      link: 
+      tags: 'Mobile Application Developer'
+      date: 03/2021 - 09/2021
+      description: |
+        Denizbank'ın Algoritmik Finans Uygulaması olan "Algolab Mobile" uygulamasının geliştirilmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
+
     - name: UncoverMore
       link: 
       tags: 'Mobile Application Developer'
-      date: 2020.11 - 2021.02
+      date: 11/2020 - 02/2021
       description: |
         People Data Labs api hizmeti aracılığıyla geliştirilen bu uygulama, insanların bir 
         e-posta adresini veya cep telefonu numarasını girip o kişinin geçmişi hakkında daha 
