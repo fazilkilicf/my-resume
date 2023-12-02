@@ -126,7 +126,7 @@ experience:
     - company: Upwork
       link: 
       tags: Freelance, remote
-      date: 2020.10 - Halen
+      date: 10/2020 - Halen
       role: Mobile Application Developer
       location: İstanbul, Türkiye
       description: |
@@ -138,6 +138,20 @@ experience:
         + MongoDB
         + FlutterFlow
         + NodeJS
+
+    - company: Ekon Teknoloji ve Yazılım
+      link: 
+      tags: Tam zamanlı, remote
+      date: 03/2021 - 09/2021
+      role: Mobile Application Developer
+      location: İstanbul, Türkiye
+      description: |
+        Denizbank'ın Algoritmik Finans Uygulaması olan "Algolab Mobile" uygulamasının geliştirilmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
 
     - name: OSS project
       link:
