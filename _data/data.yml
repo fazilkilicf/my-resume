@@ -83,8 +83,9 @@ profile:
   order: 1
   title: Profil
   description: |
-   2020 Temmuz ayında Fırat Üniversitesi Yazılım Mühendisliğinden mezun olmuştur. 
-   2019'dan beri Flutter ve Swift ile Mobil Geliştirme yapmaktadır. 
+   2019 yılından beri Flutter ve Swift ile Mobil Geliştirme yapmaktadır. 
+   Kurumsal firmalarda geliştirdiği mobil uygulamaların yanı sıra, 
+   kişisel olarakta mobil uygulamalar geliştirmektedir. 
 
 experience:
   show: true
