@@ -209,6 +209,21 @@ project:
         + Agile
         + CI/CD
 
+    - name: UncoverMore
+      link: 
+      tags: 'Mobile Application Developer'
+      date: 2020.11 - 2021.02
+      description: |
+        People Data Labs api hizmeti aracılığıyla geliştirilen bu uygulama, insanların bir 
+        e-posta adresini veya cep telefonu numarasını girip o kişinin geçmişi hakkında daha 
+        fazla bilgi edinmesine olanak tanıyan bir uygulamadır.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
 skill:
   show: false
   order: 4
