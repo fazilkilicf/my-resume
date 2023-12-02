@@ -176,17 +176,28 @@ experience:
         + .NET
         + WPF
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
+project:
+  show: true
+  order: 3
+  title: Projeler
+  description: |
+  
+  items:
+    - name: Benpetto Mobile
+      link: 'https://benpetto.com'
+      tags: 'Mobile Applicaton Developer'
+      date: 08/2023 - 12/2023
       description: |
-        OSS project description...
-        + First
-        + Second
+        Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
+        evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
