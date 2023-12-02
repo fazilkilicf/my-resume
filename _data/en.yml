@@ -1,6 +1,6 @@
 basic:
   name: Fazil Kilic                      # name
-  title: Mobile Application Developer           # job title
+  title: Senior Mobile Application Developer           # job title
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
