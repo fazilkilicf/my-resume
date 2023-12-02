@@ -108,20 +108,20 @@ experience:
         + CI/CD
         + MVVM
         
-    - company: Abra Partners
-      link: 'https://abra.partners'
+    - company: Singularity Software Technologies 
+      link: 'https://singularitysoftwaretech.com'
       tags: Fulltime, remote
-      date: 08/2023 - 12/2023
-      role: Senior Mobile Application Developer
+      date: 09/2021 - 08/2023
+      role: Mobile Application Developer
       location: İstanbul, Türkiye
       description: |
-        Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
-        evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır.
+        Bir kariyer platformu olan "Anytime Mobile" uygulamasının geliştirmesinde görev aldım.
         + Flutter
-        + WebAPI
-        + Agile 
-        + CI/CD
-        + MVVM    
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD  
 
     - name: OSS project
       link:
