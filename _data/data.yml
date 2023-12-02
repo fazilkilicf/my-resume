@@ -196,6 +196,19 @@ project:
         + CI/CD
         + MVVM
 
+    - name: Anytime Mobile
+      link: 'https://anytime.com.tr'
+      tags: 'Mobile Application Developer'
+      date: 09/2021 - 08/2023
+      description: |
+        Bir kariyer platformu olan "Anytime Mobile" uygulamasının geliştirmesinde görev aldım.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
 skill:
   show: false
   order: 4
