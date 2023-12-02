@@ -95,69 +95,169 @@ experience:
   items:
     - company: Abra Partners
       link: 'https://abra.partners'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      tags: Fulltime, remote
+      date: 2023.08 - 2023.12
+      role: Senior Mobile Application Developer
+      location: İstanbul, Türkiye
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
+        evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır. 
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+    - company: Singularity Software Technologies 
+      link: 'https://singularitysoftwaretech.com'
+      tags: Fulltime, remote
+      date: 2021.09 - 2023.08
+      role: Mobile Application Developer
+      location: İstanbul, Türkiye
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Bir kariyer platformu olan "Anytime Mobile" uygulamasının geliştirmesinde görev aldım.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
+    - company: Upwork
+      link: 
+      tags: Freelance, remote
+      date: 2020.10 - Halen
+      role: Mobile Application Developer
+      location: İstanbul, Türkiye
+      description: |
+        Freelance platformu olan "Upwork" üzerinden, müşterilerin ihtiyaçlarına hitap eden 
+        mobile uygulamalar geliştirilmektedir.
+        + Flutter
+        + Swift
+        + iOS
+        + MongoDB
+        + FlutterFlow
+        + NodeJS
+
+     - company: Ekon Teknoloji ve Yazılım
+      link: 
+      tags: Tam zamanlı, remote
+      date: 2021.03 - 2021.09
+      role: Mobile Application Developer
+      location: İstanbul, Türkiye
+      description: |
+        Denizbank'ın Algoritmik Finans Uygulaması olan "Algolab Mobile" uygulamasının geliştirilmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
+
+    - company: Netaş
+      link: 'https://netas.com.tr'
+      tags: Staj
+      date: 2018.10 - 2018.12
+      role: COOP Uzun Dönem Siber Güvenlik Staj Programı
+      location: İstanbul, Türkiye
+      description: |
+        NOVA Siber Güvenlik Operasyon Departmanında yazılım performans testleri yazdım.
+        + Java
+        + Spring JDBC
+
+    - company: Bera Ar-Ge Yazılım Danışmanlık
+      link: 'https://berayazilim.net'
+      tags: Staj
+      date: 2018.07 - 2018.09
+      role: Yazılım Geliştrme Stajı
+      location: Malatya, Türkiye
+      description: |
+        .NET aracılığıyla masaüstü uygulamaların geliştirilmesi yapılmıştır.
+        + C#
+        + .NET
+        + WPF
+    
+
 
 project:
   show: true
   order: 3
-  title: Projects
+  title: Projeler
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
   items:
-    - name: Personal project
-      link: '#'
-      tags:
-      date: 2015 - 2017
+    - name: Benpetto Mobile
+      link: 'https://benpetto.com'
+      tags: 'Mobile Applicaton Developer '
+      date: 2023.08 - 2023.12
       description: |
-        Personal project description...
-        + First
-        + Second
+        Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
+        evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır. 
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
 
-    - name: OSS project
-      link:
-      tags: committer
-      date:
+    - name: Anytime Mobile
+      link: 'https://anytime.com.tr'
+      tags: 'Mobile Application Developer'
+      date: 2021.09 - 2023.08
       description: |
-        OSS project description...
-        + First
-        + Second
+        Bir kariyer platformu olan "Anytime Mobile" uygulamasının geliştirmesinde görev aldım.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
+    - name: Algolab Mobile
+      link: 
+      tags: 'Mobile Application Developer'
+      date: 2021.03 - 2021.09
+      description: |
+        Denizbank'ın Algoritmik Finans Uygulaması olan "Algolab Mobile" uygulamasının geliştirilmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
+
+    - name: UncoverMore
+      link: 
+      tags: 'Mobile Application Developer'
+      date: 2020.11 - 2021.02
+      description: |
+        People Data Labs api hizmeti aracılığıyla geliştirilen bu uygulama, insanların bir 
+        e-posta adresini veya cep telefonu numarasını girip o kişinin geçmişi hakkında daha 
+        fazla bilgi edinmesine olanak tanıyan bir uygulamadır.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
+    - name: UncoverMore
+      link: 
+      tags: 'Mobile Application Developer'
+      date: 2020.11 - 2021.02
+      description: |
+        People Data Labs api hizmeti aracılığıyla geliştirilen bu uygulama, insanların bir 
+        e-posta adresini veya cep telefonu numarasını girip o kişinin geçmişi hakkında daha 
+        fazla bilgi edinmesine olanak tanıyan bir uygulamadır.
+        + Flutter
+        + Firebase
+        + NodeJS
+        + NoSQL
+        + Agile
+        + CI/CD
+
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
   items:
     - name: Skill A
       level: 5
@@ -178,32 +278,11 @@ skill:
     - name: Skill I
       level: 3
 
-  groups:
-    - name: Group A Skills
-      item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
-      item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
-      item:
-        - Skill H
-        - Skill I
-
 education:
   show: true
   order: 5
-  title: Education
+  title: Eğitim
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
   items:
     - institution: Example University
       link: '#'
