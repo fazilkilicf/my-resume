@@ -1,6 +1,7 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Fazıl KILIÇ                      # name
+  title: Mobile Application Developer           # job title
+    show: false
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
