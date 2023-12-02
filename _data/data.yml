@@ -294,13 +294,13 @@ education:
     
 
   items:
-    - institution: Fırat Üniversitesi
-      link: '#'
+    - institution:  Teknoloji Fakültesi - Fırat Üniversitesi
+      link: 'https://www.firat.edu.tr/tr'
       date: 2015 - 2020
       major: Yazılım Mühendisliği
       degree: Lisans
       description: |
-        
+        Yatay geçiş
 
     - institution: Example University
       link:
