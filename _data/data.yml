@@ -93,8 +93,8 @@ experience:
   description: |
 
   items:
-    - company: Second Company
-      link: '#'
+    - company: Abra Partners
+      link: 'https://abra.partners'
       tags: Full-time
       date: 2018.03 - 2019.03
       role: Backend Developer
