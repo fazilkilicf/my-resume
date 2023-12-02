@@ -8,7 +8,7 @@ basic:
 contact:
   # meta
   location: Istanbul, Turkey # location
-  email: fazilkilicf    # email address
+  email: fazilkilicf@gmail.com    # email address
   phone: +90-533-707-66-01 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: # example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
