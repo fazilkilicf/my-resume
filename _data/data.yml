@@ -107,6 +107,21 @@ experience:
         + Agile 
         + CI/CD
         + MVVM
+        
+    - company: Abra Partners
+      link: 'https://abra.partners'
+      tags: Fulltime, remote
+      date: 08/2023 - 12/2023
+      role: Senior Mobile Application Developer
+      location: İstanbul, Türkiye
+      description: |
+        Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
+        evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır.
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM    
 
     - name: OSS project
       link:
