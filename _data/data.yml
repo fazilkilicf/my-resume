@@ -153,6 +153,17 @@ experience:
         + CI/CD
         + MVVM
 
+    - company: Netaş
+      link: 'https://netas.com.tr'
+      tags: Staj
+      date: 2018.10 - 2018.12
+      role: COOP Uzun Dönem Siber Güvenlik Staj Programı
+      location: İstanbul, Türkiye
+      description: |
+        NOVA Siber Güvenlik Operasyon Departmanında yazılım performans testleri yazdım.
+        + Java
+        + Spring JDBC
+
     - name: OSS project
       link:
       tags: committer
