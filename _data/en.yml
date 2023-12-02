@@ -89,7 +89,7 @@ profile:
 experience:
   show: true
   order: 2
-  title: Experience
+  title: Experiences
   description: |
 
   items:
@@ -288,7 +288,7 @@ skill:
 education:
   show: true
   order: 5
-  title: Education
+  title: Educations
   description: |
     
 
