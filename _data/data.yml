@@ -341,6 +341,25 @@ certificate:
       date: 10/2020
       description: |
         Id: 2019/581/757
+
+    - name: Flutter ile Android ve IOS Apps Development 
+      issuer: Udemy
+      date: 08/2020
+      link: 'https://www.udemy.com/certificate/UC-cb7d1542-b84c-442e-9d07-6ed20719f8cf/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email'
+      description: |
+
+    - name: Android 201
+      issuer: Turkcell
+      date: 09/2019
+      link: 'https://gelecegiyazanlar.turkcell.com.tr/kisi/bykilic23/belge/android-201'
+      description: |
+
+    - name: Android 101
+      issuer: Turkcell
+      date: 08/2019
+      link: 'https://gelecegiyazanlar.turkcell.com.tr/kisi/bykilic23/belge/android-101#'
+      description: |
+        
     
 
 publication:
