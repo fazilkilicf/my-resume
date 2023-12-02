@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  https://github.com/fazilkilicf
+  github:                  fazilkilicf
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -68,7 +68,7 @@ contact:
   # social media
   twitter:                 # username          | https://twitter.com/username
   mastodon:                # username@server
-  instagram:               https://instagram.com/fazilkilicf
+  instagram:               fazilkilicf
   unsplash:                # username          | https://unsplash.com/@username
   _500px:                  # username          | https://500px.com/p/username
   youtube:                 # username          | https://www.youtube.com/@username
