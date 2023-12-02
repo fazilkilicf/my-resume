@@ -102,8 +102,11 @@ experience:
       description: |
         Evcil hayvan sahipleri için geliştirilen “Benpetto Mobile” uygulamasının, 
         evcil hayvanlar için ürün satışı yapılan e-ticaret kısmının geliştirmesi yapılmıştır.
-        + First
-        + Second
+        + Flutter
+        + WebAPI
+        + Agile 
+        + CI/CD
+        + MVVM
 
     - name: OSS project
       link:
