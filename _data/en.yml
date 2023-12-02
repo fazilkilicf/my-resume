@@ -81,7 +81,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profil
+  title: Profile
   description: |
    He graduated from Fırat University Software Engineering in July 2020.
    He has been doing Mobile Development with Flutter and Swift since 2019.
