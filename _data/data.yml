@@ -1,13 +1,13 @@
 basic:
   name: Fazıl KILIÇ                      # name
-  title: Mobile Application Developer           # job title
+  title: Senior Mobile Application Developer           # job title
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Istanbul, Turkey # location
+  location: Istanbul, Türkiye # location
   email: fazilkilicf@gmail.com    # email address
   phone: +90-533-707-66-01 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: # example.com     # site URL without schema, like example.com, will automatically prepand "https://"
