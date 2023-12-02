@@ -123,6 +123,22 @@ experience:
         + Agile
         + CI/CD  
 
+    - company: Upwork
+      link: 
+      tags: Freelance, remote
+      date: 2020.10 - Halen
+      role: Mobile Application Developer
+      location: İstanbul, Türkiye
+      description: |
+        Freelance platformu olan "Upwork" üzerinden, müşterilerin ihtiyaçlarına hitap eden 
+        mobile uygulamalar geliştirilmektedir.
+        + Flutter
+        + Swift
+        + iOS
+        + MongoDB
+        + FlutterFlow
+        + NodeJS
+
     - name: OSS project
       link:
       tags: committer
