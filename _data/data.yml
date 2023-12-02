@@ -164,6 +164,18 @@ experience:
         + Java
         + Spring JDBC
 
+    - company: Bera Ar-Ge Yazılım Danışmanlık
+      link: 'https://berayazilim.net'
+      tags: Staj
+      date: 2018.07 - 2018.09
+      role: Yazılım Geliştrme Stajı
+      location: Malatya, Türkiye
+      description: |
+        .NET aracılığıyla masaüstü uygulamaların geliştirilmesi yapılmıştır.
+        + C#
+        + .NET
+        + WPF
+
     - name: OSS project
       link:
       tags: committer
